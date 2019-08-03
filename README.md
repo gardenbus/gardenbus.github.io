@@ -6,3 +6,7 @@ https://gardenbus.github.io/
     bundle install
 
     bundle exec jekyll serve
+
+## Keep Up to Date
+
+    bundle update
